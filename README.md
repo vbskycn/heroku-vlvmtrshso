@@ -2,6 +2,7 @@
 
 ### 使用Github进行代码托管并连接heroku [gitlab项目通过https方式上传到github项目的流程图](https://ygkkk.blogspot.com/2022/06/gitlabhttpsgithub.html)
 
+https://dashboard.heroku.com/new?template=https://github.com/vbskycn/heroku-vlvmtrshso
 
 ### workers反代与pages反代及自定义域，配置文件信息等相关操作拓展教程，请关注：[博客视频教程](https://ygkkk.blogspot.com/2022/05/heroku-cloudflare-workers-pages.html)
 
